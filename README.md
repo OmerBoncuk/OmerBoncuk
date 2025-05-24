@@ -35,8 +35,6 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 ## 📫 Contact
 
-- 📧 Email: **boncukomer91@gmail.com**
-- 🌍 Location: **Normal, IL, USA**
 - 💼 LinkedIn: [linkedin.com/in/omerboncuk](https://www.linkedin.com/in/omerboncuk)
 
 ---

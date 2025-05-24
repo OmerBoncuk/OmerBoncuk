@@ -1,6 +1,6 @@
-<!-- Geniş ve dikkat çekici GIF -->
+<!-- Büyük GIF en üstte -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd0bmxkOWp2ODliMDF3NjVoaG15ajlwYW91d3g2NWpheTFuMXBtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" alt="Coding GIF" width="100%" />
 </p>
 
 ---

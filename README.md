@@ -1,32 +1,53 @@
-<h1 align="center">Hi 👋, I'm Omer Boncuk</h1>
-<h3 align="center">QA Tester | Java Backend Learner | Future SDET 🚀</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd0bmxkOWp2ODliMDF3NjVoaG15ajlwYW91d3g2NWpheTFuMXBtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" /> 
-
-- 🌱 I’m currently learning **Java, Spring Boot, Selenium, and Postman**
-- 🔭 I’m working on **QA Projects and Backend Microservices**
-- 🧠 I'm improving my skills in **SQL, Manual Testing, and Automation**
-- 💬 Ask me about **Java, TestNG, Maven, or Postman**
-- 📫 How to reach me: **boncukomer91@gmail.com**
-- 🌍 I’m based in **Normal, IL**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<!-- Geniş ve dikkat çekici GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 👋 Hi there! I'm Omer Boncuk
 
-![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerBoncuk&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBoncuk&layout=compact&theme=dark)
+🎯 **QA Tester | Java Backend Learner | Future SDET**
+
+Welcome to my GitHub! I'm currently building my skill set in software quality assurance and backend development. I'm passionate about test automation, Java technologies, and continuous learning.
+
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning: **Java, Spring Boot, Selenium, Postman**
+- 💻 Working on: **Test Automation Projects & Backend Microservices**
+- 📚 Building projects with: **Jenkins, Maven, Git, Docker**
+- 🎯 Career goal: **Become a strong SDET with hands-on experience**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **boncukomer91@gmail.com**
+- 🌍 Location: **Normal, IL, USA**
+- 💼 LinkedIn: [linkedin.com/in/omerboncuk](https://www.linkedin.com/in/omerboncuk)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerBoncuk&show_icons=true&theme=github_dark&hide=issues" alt="Omer's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBoncuk&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
+</p>
+

@@ -7,9 +7,9 @@
 
 # 👋 Hi there! I'm Omer Boncuk
 
-🎯 **QA Tester | Java Backend Learner | Future SDET**
+🎯 **QA Tester**
 
-Welcome to my GitHub! I'm currently building my skill set in software quality assurance and backend development. I'm passionate about test automation, Java technologies, and continuous learning.
+Welcome to my GitHub! I'm currently building my skill set in software quality assurance.
 
 ---
 

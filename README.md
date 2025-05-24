@@ -46,8 +46,8 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerBoncuk&show_icons=true&theme=github_dark&hide=issues" alt="Omer's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBoncuk&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerBoncuk&show_icons=true&theme=github_dark&hide=issues&hide_title=true&card_width=400" alt="Omer's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBoncuk&layout=compact&theme=github_dark&card_width=350" alt="Top Languages" />
+</div>
 

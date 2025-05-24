@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: **Java, Spring Boot, Selenium, Postman**
-- 💻 Working on: **Test Automation Projects & Backend Microservices**
-- 📚 Building projects with: **Jenkins, Maven, Git, Docker**
+- 🌱 I’m currently learning: **Java, Selenium, Postman**
+- 💻 Working on: **Test Automation Projects**
+- 📚 Building projects with: **Jenkins, Maven, Git**
 - 🎯 Career goal: **Become a strong SDET with hands-on experience**
 
 ---
@@ -26,12 +26,9 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 </p>
 
 ---

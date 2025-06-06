@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/omerboncuk](https://www.linkedin.com/in/omerboncuk)
+- 💼 LinkedIn: [linkedin.com/in/omerboncuk](https://www.linkedin.com/in/%C3%B6mer-boncuk-673763212/)
 
 ---
 
